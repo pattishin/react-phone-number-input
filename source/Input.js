@@ -9,7 +9,7 @@ import classNames from 'classnames'
 // but in that case Webpack bundles the whole `react-responsive-ui` package.
 import Select from 'react-responsive-ui/commonjs/Select'
 
-import country_names from './countries'
+import country_names from './countries.json'
 import InternationalIcon from './InternationalIcon'
 
 // A list of all country codes
